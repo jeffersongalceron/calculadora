@@ -1,0 +1,12 @@
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/jeffersongalceron/Documents/Dev/Csharp/Calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
